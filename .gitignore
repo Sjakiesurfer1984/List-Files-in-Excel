@@ -1,0 +1,10 @@
+# Python-specific files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+
+# Virtual environment files
+venv/
+.venv/
